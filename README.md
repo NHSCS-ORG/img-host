@@ -1,2 +1,2 @@
-# imp-host
+# img-host
 Host images for web.
