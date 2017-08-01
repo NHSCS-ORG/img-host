@@ -1,2 +1,3 @@
-# img-host
-Host images for web.
+<p align="center">
+This page intentionally left blank.
+</p>
